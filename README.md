@@ -1,2 +1,2 @@
-# KOSA_Study
-KOSA Study
+# Study
+Study
